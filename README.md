@@ -1,7 +1,7 @@
 # 💼 Online Job Portal — MERN Stack
 
 > Developed as part of an **ETHNUS CONSULTANCY SERVICES PRIVATE LIMITED** assignment  
-> Live Demo: [mern-fullstack-project-dpns.vercel.app](https://mern-fullstack-project-dpns.vercel.app/)
+> Live Demo: 
 
 ---
 
